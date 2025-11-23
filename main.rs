@@ -392,7 +392,7 @@ fn main() -> eframe::Result<()> {
     let folder_path = if args.len() > 1 {
         PathBuf::from(&args[1])
     } else {
-        PathBuf::from(r"C:\Users\david\Pictures\1880-1910")
+        PathBuf::from(r"CHANGE FOR DIRECTORY")
     };
 
     let options = eframe::NativeOptions {
