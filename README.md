@@ -24,6 +24,16 @@ Displays high-resolution artworks with automatic scaling, blurred background fil
 
 ---
 
+## Screenshot Example
+
+Here is an example of how the slideshow displays an artwork:
+
+<img src="assets/slideshow_example.jpg" width="700">
+
+Foreground image is centered and scaled, while the blurred background fills the screen.
+
+---
+
 ## Usage
 
 ### Run from source
